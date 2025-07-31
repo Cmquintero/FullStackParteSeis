@@ -1,0 +1,39 @@
+{
+  "anecdotes": [
+    {
+      "id": "1",
+      "content": "the app state is in redux store",
+      "votes": 3
+    },
+    {
+      "id": "2",
+      "content": "state changes are made with actions",
+      "votes": 3
+    },
+    {
+      "id": "3",
+      "content": "Yo hago lo que me da la gana ",
+      "votes": 3
+    },
+    {
+      "id": "4",
+      "content": "Estas notas fueron creadas por hardcode",
+      "votes": 0
+    },
+    {
+      "id": "5",
+      "content": "El curso full stack open no es un paseo ",
+      "votes": 0
+    },
+    {
+      "id": "6",
+      "content": "Tener un certificado full stak ",
+      "votes": 0
+    },
+    {
+      "id": "40289",
+      "content": "Nueva nota prueba backend",
+      "votes": 1
+    }
+  ]
+}
