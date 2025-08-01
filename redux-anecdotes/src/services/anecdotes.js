@@ -1,6 +1,7 @@
 import axios from 'axios'
 
-const baseUrl = import.meta.env.VITE_BACKEND_URL
+const baseUrl = import.meta.env.VITE_BACKEND_URL //en el archivo .env que es ignorado por github ya que asi lo modifique esta la creacion del baseurl,ya se hizo algo igual en las partes 2 y 3 
+// pero agrego el comentario para revisar y aprender en el commit 6cc8206 se puede ver el archivo env si la base de datos se utiliza (dbatlas) tambien modificare para que se vea el .env
 
 const getId = () => (100000 * Math.random()).toFixed(0)
 

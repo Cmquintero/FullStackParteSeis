@@ -18,3 +18,6 @@ Estos ejercicios me gustaron soy un amante de ver como agarran forma las paguina
 Ejercicios ya hechos anterior mente con el json server son ejercicios sencillos son junto con la estetica del front lo que mas me llama la atencion de el generar codigo
 tuve eror minimo pero bobo ya que en el db.json estaba usando notes por la indicacion del curso y en el anecdotes.js estaba usando otra base.url como lo era localhost/anecdotes
 entonces al correr el endpoint del backend no era el mismo que el del front y demore mucho con ese error tan sencillo solo por no nombrar el arreglo del db.json como debia 
+
+# Ejercicio 6.16-6.19
+En estos ejercicios tambien fueron un poco sencillos basandonos en los que ya tenia, con la cuestion de las notificaciones fue sencillo ya que en los ejercicios de la parte dos de las notas ya habia tenido algo de practica con el notificar entonces para el ejercicio 6.19 reutilice algo de codigo pero no fue como tal el mismo los otros ejercicios solo era pulir partes que ya tenia agregadas en los archivos
