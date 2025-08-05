@@ -24,3 +24,7 @@ En estos ejercicios tambien fueron un poco sencillos basandonos en los que ya te
 
 # Ejercicio 6.20-6.23
 En estos ejercicios me parecio sencillo aun que tuve un error con la clonacion del proyecto ya que venia manejando el inicial de mluukkai Matti Luukkainen el principal y no el que daba antes de empezar a hacer los ejercicios para correr en la paguina pero pude correguirlo tomando otro commit,re utilice la parte de las notificaciones en mi parte anterior de redux-anecdotes para que se viera mas estetica ademas que me base un poco en a que utilice en la parte anterior de la parte 4
+
+# Ejercicio 6.23-6.24
+Estos dos ejercicicios me recordaron mucho a los hechos anteriormente en la parte 2 con los ejercicios de la creacion de personas pero de forma distinta ya que se implemento con archivos de otra forma 
+con la misma logica pero en forma distinta de aplicarse 

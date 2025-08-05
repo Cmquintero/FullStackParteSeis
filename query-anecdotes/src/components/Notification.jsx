@@ -1,7 +1,11 @@
-const Notification = ({ message }) => {
+import { useNotificationValue } from '../notificationContext'
+
+const Notification = () => {
+  const message = useNotificationValue()
+
   if (!message) return null
 
-   const style = {
+  const style = {
     color: 'green',
     background: '#e6ffe6',
     fontSize: 16,
